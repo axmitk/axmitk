@@ -113,7 +113,7 @@ asmit = {
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=axmitk&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&border_color=00FF41&icon_color=00FF41&title_color=00FF41&text_color=c9d1d9&hide_border=false" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axmitk&layout=compact&theme=chartreuse-dark&bg_color=0d1117&border_color=00FF41&title_color=00FF41&text_color=c9d1d9&hide_border=false" />
+
 
 </div>
 
