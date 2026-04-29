@@ -1,4 +1,4 @@
-<!-- Header -->
+h<!-- Header -->
 <div align="center">
 
 ```
@@ -112,14 +112,14 @@ asmit = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&border_color=00FF41&icon_color=00FF41&title_color=00FF41&text_color=c9d1d9&hide_border=false" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&bg_color=0d1117&border_color=00FF41&title_color=00FF41&text_color=c9d1d9&hide_border=false" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=axmitk&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&border_color=00FF41&icon_color=00FF41&title_color=00FF41&text_color=c9d1d9&hide_border=false" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axmitk&layout=compact&theme=chartreuse-dark&bg_color=0d1117&border_color=00FF41&title_color=00FF41&text_color=c9d1d9&hide_border=false" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&background=0d1117&border=00FF41&stroke=00FF41&ring=00FF41&fire=ff6b6b&currStreakLabel=00FF41&sideLabels=00FF41&dates=c9d1d9)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=axmitk&theme=dark&background=0d1117&border=00FF41&stroke=00FF41&ring=00FF41&fire=ff6b6b&currStreakLabel=00FF41&sideLabels=00FF41&dates=c9d1d9)](https://git.io/streak-stats)
 
 </div>
 
@@ -162,7 +162,7 @@ asmit = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/asmit-khare-9005b637b)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF41)] {codes.axmit@gmail.com}
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/YOUR_axmitk)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/axmitk)
 
 </div>
 
@@ -175,6 +175,6 @@ asmit = {
 > — executing...
 ```
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00FF41&style=flat-square&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=axmitk&color=00FF41&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
