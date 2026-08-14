@@ -10,7 +10,7 @@ h<!-- Header -->
 ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝╚═╝   ╚═╝       ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
 ```
 
-**`// First-year CS undergrad → Future systems engineer`**
+**`// Second-Year CS undergrad → Future systems engineer`**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=Building+things+that+matter.;AI+%7C+Systems+%7C+Web+%7C+Research;1st+Place+%40+Vigyaan+%7C+NIT+Raipur+2025;Raipur+%E2%86%92+The+Industry+%E2%86%92+The+Stars.)](https://git.io/typing-svg)
 
@@ -25,7 +25,7 @@ h<!-- Header -->
 asmit = {
     "name"      : "Asmit Khare",
     "location"  : "Raipur, India 🇮🇳",
-    "education" : "B.Tech CSE @ SSIPMT Raipur (CSVTU) — Year 1",
+    "education" : "B.Tech CSE @ SSIPMT Raipur (CSVTU) — Year 2",
     "focus"     : ["AI/ML", "Full-Stack Dev", "Systems Engineering"],
     "ambition"  : "Top-tier SWE → Aerospace/Defense tech by mid-20s",
     "learning"  : ["Advanced ML", "DevOps", "Docker", "Kubernetes"],
@@ -38,7 +38,7 @@ asmit = {
 <!-- Featured Project -->
 ## `> ls projects/featured`
 
-### 🥇 Muck Spectra — *1st Place, Vigyaan @ NIT Raipur 2025 (CS/IT)*
+### 🥇 Muck Spectra — *1st Place, Vigyaan @ NIT Raipur 2026 (CS/IT)*
 
 > **Deepfake Detection System** with explainability & media provenance verification
 
